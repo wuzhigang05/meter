@@ -1,0 +1,15 @@
+
+.red {
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    height: 960px;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+}
